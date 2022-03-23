@@ -2,7 +2,6 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import Details from "./Details";
-import Footer from "./Footer";
 
 function Movies() {
   const url =
